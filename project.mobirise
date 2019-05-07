@@ -1022,11 +1022,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rpqX5qHtrc",
+          "_anchor": "menu2-7",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu2-7"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1185,11 +1185,11 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rpqX6R0CVH",
+          "_anchor": "footer7-8",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer7-8"
+          "_params": {}
         }
       ]
     }
